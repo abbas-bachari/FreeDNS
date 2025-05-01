@@ -1,1 +1,13 @@
-# FreeDNS
+# Free DNS Server for YogaDNS 
+## Shekan IP1
+sdns://AAAAAAAAAAAADjE3OC4yMi4xMjIuMTAw
+
+## Shekan IP2
+sdns://AAAAAAAAAAAADDE4NS41MS4yMDAuMg
+
+## Shekan DoH
+sdns://AgAAAAAAAAAAAAAOZnJlZS5zaGVjYW4uaXIKL2Rucy1xdWVyeQ
+
+
+## Shekan DoL
+sdns://AwAAAAAAAAAAAAAOZnJlZS5zaGVjYW4uaXI
